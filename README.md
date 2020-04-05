@@ -1,4 +1,4 @@
-# Producing image from scratch based on the input image using evolutionary algorithm.
+# Evolutionary algorithm for image generation.
 
 This project is the part of the course Introduction to Artificial Intelligence in Innopolis University.
 
